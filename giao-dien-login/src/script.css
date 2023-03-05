@@ -1,0 +1,1004 @@
+.h1 {
+    position: absolute;
+    width: 123px;
+    height: 23px;
+    left: 40px;
+    top: 24px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+  
+    color: #172b4d;
+  }
+  
+  .login {
+    position: absolute;
+    width: 154px;
+    height: 38px;
+    left: 353px;
+    top: 140px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    /* identical to box height */
+  
+    display: flex;
+    align-items: center;
+  
+    color: #1890ff;
+  }
+  
+  .account {
+    /* Tài khoản */
+  
+    position: absolute;
+    width: 69px;
+    height: 19px;
+    left: 250px;
+    top: 229px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    color: #252f40;
+  }
+  
+  .account_place {
+    box-sizing: border-box;
+  
+    position: absolute;
+    width: 361px;
+    height: 40px;
+    left: 250px;
+    top: 258px;
+  
+    background: #ffffff;
+    border: 1px solid #d9d9d9;
+    border-radius: 8px;
+  }
+  
+  .password {
+    /* Mật khẩu */
+  
+    position: absolute;
+    width: 67px;
+    height: 19px;
+    left: 250px;
+    top: 322px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    color: #252f40;
+  }
+  
+  .password_place {
+    /* Rectangle 324 */
+  
+    box-sizing: border-box;
+    position: absolute;
+    width: 361px;
+    height: 40px;
+    left: 250px;
+    top: 351px;
+  
+    background: #ffffff;
+    border: 1px solid #d9d9d9;
+    border-radius: 8px;
+  }
+  
+  .btn {
+    position: absolute;
+    width: 361px;
+    height: 40px;
+    left: 250px;
+    top: 431px;
+  
+    background: #1890ff;
+    border-radius: 8px;
+  
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+  
+    color: #ffffff;
+  }
+  
+.anh {
+  position: absolute;
+width: 50px;
+height: 50px;
+left: 40%;
+top: 16px;
+}
+
+.QuanTriThanhVien {
+  position: absolute;
+  width: 87%;
+height: 40px;
+left: 16px;
+top: 123px;
+}
+
+.DanhMuc{
+position: absolute;
+width: 87%;
+height: 40px;
+left: 16px;
+top: 171px;
+
+border-radius: 4px;
+}
+
+
+.DoAn {
+  /* Rectangle 2955 */
+
+
+position: absolute;
+width: 87%;
+height: 40px;
+left: 16px;
+top: 218px;
+
+border-radius: 4px;
+}
+
+.ToChuc {
+  position: absolute;
+  width: 87%;
+height: 40px;
+left: 16px;
+top: 265px;
+
+background: #F0F7FF;
+border-radius: 4px
+}
+
+.TopBar-1 {
+  position: absolute;
+  width: 75%;
+height: 15%;
+left: 16%;
+top: 29px;
+
+}
+
+.LeftBar-1 {
+  position: absolute;
+  width: 15%;
+height: 100%;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+}
+
+
+.IconThongBao {
+  position: absolute;
+width: 30px;
+height: 30px;
+left: 95%;
+top:0px;
+}
+
+.IconVietNam {
+  
+  width: 30px;
+  position: absolute;
+  height: 30px;
+  left: 100%;
+  top: -2px;
+}
+
+.IconTrangChu {
+  position: absolute;
+width: 30px;
+height: 30px;
+left: 105%;
+top:-5px;
+}
+
+.TruongDaiHoc {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+
+color: #172B4D;
+
+}
+
+.MuiTenDanhMuc {
+  padding-left:50px;
+}
+
+.MuiTenDoAn {
+  padding-left:78px;
+}
+
+.MidBar{
+
+  position: absolute;
+  width: 85%;
+height: 40%;
+left: 15%;
+right:0px;
+top: 80px;
+}
+
+.LastBar {
+  position: absolute;
+  width: 85%;
+height: 40%;
+left: 15%;
+right:0px;
+top: 136px;
+
+}
+.InputAnh {
+  position: absolute;
+  width: 200px;
+  height:200px;
+  left: 12%;
+right: 65.28%;
+padding-top: 20px;
+}
+
+.InputButton{
+  position: absolute;
+left: 12%;
+right: 65.28%;
+padding-top: 80px;
+opacity: 0;
+padding-top: 60px;
+border-radius: 50%;
+}
+
+.Avatar {
+  position: absolute;
+  width: 150px;
+  height:150px;
+  left: 12%;
+right: 65.28%;
+padding-top: 20px;
+
+}
+
+.c507 {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+position: absolute;
+width: 69px;
+height: 16px;
+left: 30%;
+top: 40px;
+}
+.c508 {
+  /* Rectangle 2956 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 340px;
+height: 32px;
+left: 30%;
+top: 62px;
+
+border: 1px solid #E2E3E9;
+border-radius: 3px;
+}
+
+.c509 {
+  position: absolute;
+width: 150px;
+height: 23px;
+left: 12%;
+top: 170px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+
+color: #172B4D;
+}
+
+.c510 {
+  position: absolute;
+width: 39px;
+height: 16px;
+left: 12%;
+top: 210px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+
+color: #172B4D;
+
+}
+
+.c511 {
+  box-sizing: border-box;
+
+position: absolute;
+width: 340px;
+height: 32px;
+left: 12%;
+top: 240px;
+
+border: 1px solid #E2E3E9;
+border-radius: 3px;
+}
+
+.c512 {
+  position: absolute;
+width: 83px;
+height: 16px;
+left: 12%;
+top: 300px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+
+color: #172B4D;
+}
+
+.c513 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 340px;
+  height: 32px;
+  left: 12%;
+  top: 330px;
+  
+  border: 1px solid #E2E3E9;
+  border-radius: 3px;
+}
+
+.c514 {
+  position: absolute;
+  width: 83px;
+  height: 16px;
+  left: 12%;
+  top: 390px;
+  
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  
+  color: #172B4D;
+}
+
+.c515 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 340px;
+  height: 32px;
+  left: 12%;
+  top: 420px;
+  
+  border: 1px solid #E2E3E9;
+  border-radius: 3px;
+}
+
+.c516 {
+  position: absolute;
+  width: 83px;
+  height: 16px;
+  left: 60%;
+  top: 210px;
+  
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  
+  color: #172B4D;
+}
+
+.c517 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 340px;
+  height: 32px;
+  left: 60%;
+  top: 240px;
+  
+  border: 1px solid #E2E3E9;
+  border-radius: 3px;
+}
+
+.c518 {
+  position: absolute;
+  width: 83px;
+  height: 16px;
+  left: 60%;
+  top: 300px;
+  
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  
+  color: #172B4D;
+}
+
+.c519 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 340px;
+  height: 32px;
+  left: 60%;
+  top: 330px;
+  
+  border: 1px solid #E2E3E9;
+  border-radius: 3px
+}
+
+.c520 {
+  position: absolute;
+width: 950px;
+height: 0px;
+left: 12%;
+top: 480px;
+
+border: 1px solid #E2E3E9;
+}
+
+.c521{
+  
+position: absolute;
+width: 88px;
+height: 32px;
+left: 1182px;
+top: 630px;
+
+background: #fafafa;
+border-radius: 3px;
+border-color: #000000;
+border-width: 2px;
+
+/* Cập nhật */
+
+
+position: absolute;
+width: 70px;
+height: 20px;
+left: 82%;
+top: 500px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: rgb(0, 0, 0);
+}
+
+.ModalTrangChu {
+  position: absolute;
+width: 260px;
+height: 255px;
+left: 80%;
+top: 72px;
+
+background: #FFFFFF;
+box-shadow: 1px 4px 4px rgba(23, 43, 77, 0.15);
+border-radius: 3px 3px 3px 0px;
+animation: ModalTrangchu ease-in 0.2s;
+transform-origin: top right;
+}
+
+
+@keyframes ModalTrangchu {
+  from {
+    opacity: (0);
+    transform: scale(0);
+  }
+  to {
+    opacity: (1);
+    transform: scale(1);
+  }
+}
+
+
+
+.ModalTrangChuAvt {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  left: 37.5%;
+  top: 5%;
+}
+
+.ModalTrangChuName {
+  position: absolute;
+  top: 40%;
+  left:30%;
+}
+
+.ModalTrangChuBtn {
+  position: absolute;
+  width: 150px;
+  top: 62%;
+  left:22.5%;
+  border-width: 2px;
+  border-radius: 5%;
+  border-color: rgb(217, 216, 216);
+}
+
+.ModalTrangChuDangXuat {
+  position: absolute;
+  width: 260px;
+  top: 82%;
+}
+
+.HomeDanhMuc {
+  position: absolute;
+
+}
+
+.DanhMucPage-1 {
+  position: absolute;
+  width: 100%;
+height: 100%;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+}
+
+.ToChucKhongMau {
+  position: absolute;
+  width: 87%;
+height: 40px;
+left: 16px;
+top:406px;
+
+background: #ffffff;
+border-radius: 4px
+}
+
+.DoAnDM {
+  position: absolute;
+  width: 87%;
+height: 40px;
+left: 16px;
+top:359px;
+
+background: #ffffff;
+border-radius: 4px
+}
+
+.DanhMucDM {
+  position: absolute;
+  width: 87%;
+height: 40px;
+left: 16px;
+top:171px;
+color: #1890FF;
+background: #ffffff;
+border-radius: 4px;
+}
+
+.NganhNgheDM {
+  position: absolute;
+  width: 77%;
+height: 40px;
+left: 41px;
+top:218px;
+color:#1890FF;
+  background: #F0F7FF;
+border-radius: 4px;
+}
+
+
+
+.KhoaDM {
+  position: absolute;
+  width: 77%;
+height: 40px;
+left: 41px;
+top:265px;
+color: #000000;
+background: #ffffff;
+border-radius: 4px;
+}
+
+.KhoaDM:hover {
+  color:#1890FF;
+  background: #F0F7FF;
+}
+
+.LopDM {
+  position: absolute;
+  width: 77%;
+height: 40px;
+left: 41px;
+top:312px;
+color: #000000;
+background: #ffffff;
+border-radius: 4px;
+}
+
+.LopDM:hover {
+  color:#1890FF;
+  background: #F0F7FF;
+}
+
+.DanhSachNganhNgheTop-1 {
+  position: absolute;
+height: 15%;
+width: 100%;
+left: 5%;
+top: 29px;
+}
+
+.IconVietNamDS {
+  width: 30px;
+  position: absolute;
+  height: 30px;
+  left: 140%;
+  top: -2px;
+}
+
+.IconThongBaoDS {
+  position: absolute;
+width: 30px;
+height: 30px;
+left: 130%;
+top:0px;
+}
+
+.IconTrangChuDS {
+  position: absolute;
+width: 30px;
+height: 30px;
+left: 150%;
+top:-2px;
+}
+
+.ModalTrangChuDS {
+  position: absolute;
+  width: 260px;
+  height: 255px;
+  left: 77%;
+  top: -640px;
+  
+  background: #FFFFFF;
+  box-shadow: 1px 4px 4px rgba(23, 43, 77, 0.15);
+  border-radius: 3px 3px 3px 0px;
+  animation: ModalTrangchu ease-in 0.2s;
+  transform-origin: top right;
+}
+
+.MidDS {
+  position: absolute;
+  width: 165%;
+  border-top-width: 2px;
+  border-bottom-width: 2px;
+  padding: 10px;
+  position: absolute;
+  top: -280px;
+}
+
+.BtnThemNganhNghe {
+  position: absolute;
+  left: 80%;
+  color:#ffffff;
+  background-color: #1890ff;
+  border-radius: 5%;
+  padding-left: 16px;
+  padding-top: 2px;
+  padding-bottom: 4px;
+  padding-right: 16px;
+  top: 7px;
+}
+
+.ModalThemNghe {
+  position: absolute;
+  width: 700px;
+  top: -500px;
+  height: 180px;
+  left: 20%;
+
+  background: #FFFFFF;
+  box-shadow: 1px 1px 4px 4px rgba(23, 43, 77, 0.15);
+  border-radius: 3px 3px 3px 3px;
+  transform-origin: top right;
+}
+
+.BtnX {
+  margin-left: 540px;
+}
+
+.t319 {
+position: absolute;
+left: 50px;
+top: 35px;
+}
+
+.t320{
+  position: absolute;
+left: 50px;
+top: 70px;
+
+position: absolute;
+width: 230px;
+height: 32px;
+
+border: 1px solid #E2E3E9;
+border-radius: 3px;
+}
+.t312 {
+  position: absolute;
+left: 100px;
+top: 35px;
+}
+
+.t313 {
+  position: absolute;
+left: 100px;
+top: 70px;
+position: absolute;
+width: 230px;
+height: 32px;
+
+border: 1px solid #E2E3E9;
+border-radius: 3px;
+}
+
+.t316 {
+  position: absolute;
+  width:700px;
+  top: 130px;
+  border: 1px solid #E2E3E9;
+border-radius: 3px;
+}
+
+.t317 {
+  position: absolute;
+left: 530px;
+top: 140px;
+position: absolute;
+width: 50px;
+height: 32px;
+
+border: 1px solid #E2E3E9;
+border-radius: 3px;
+}
+
+.t318 {
+  position: absolute;
+  left: 590px;
+  top: 140px;
+  position: absolute;
+  width: 80px;
+  height: 32px;
+  
+  border: 1px solid #697ffb;
+  border-radius: 3px;
+  color: #ffffff;
+  background: #1890FF;
+  ;
+}
+
+.t314 {
+  position: absolute;
+  left: 410px;
+  top: 35px;
+}
+
+.t315 {
+  position: absolute;
+left: 415px;
+top: 70px;
+position: absolute;
+width: 230px;
+height: 32px;
+
+border: 1px solid #E2E3E9;
+border-radius: 3px;
+}
+
+.NganhNgheDMMP {
+  position: absolute;
+  width: 77%;
+height: 40px;
+left: 41px;
+top:218px;
+color: rgb(0, 0, 0);
+  background: #ffffff;
+border-radius: 4px;
+}
+
+.NganhNgheDMMP:hover {
+  color:#1890FF;
+  background: #F0F7FF;
+}
+
+.KhoaDMKP {
+  position: absolute;
+  width: 77%;
+height: 40px;
+left: 41px;
+top:265px;
+color:#1890FF;
+  background: #F0F7FF;
+border-radius: 4px;
+}
+
+.LopDMLP {
+  position: absolute;
+  width: 77%;
+height: 40px;
+left: 41px;
+top:312px;
+color:#1890FF;
+  background: #F0F7FF;
+border-radius: 4px;
+}
+
+.ToChucMP {
+  position: absolute;
+  width: 87%;
+height: 40px;
+left: 16px;
+top: 265px;
+
+background: #ffffff;
+border-radius: 4px
+}
+
+.BangNganhNghe {
+  position: absolute;
+  top: -210px;
+  width: 150%;
+  left: 7%
+}
+
+.CotID {
+  width: 7%;
+  font-weight: 400;
+}
+
+.CotCaiDat {
+  font-weight: 400;
+  width: 10%;
+}
+
+.CotMaNganh {
+  font-weight: 400;
+}
+
+.CotTenNganh {
+  font-weight: 400;
+}
+
+.LichBtn {
+  position: absolute;
+  left: 610px;
+  top: 75px;
+}
+
+.KhoaBtnX {
+  margin-left: 600px;
+}
+
+.DateKhoa{
+  position: absolute;
+  width: 250px;
+  left: 68%;
+  top: -390px;
+  background: #FFFFFF;
+  box-shadow: 1px 1px 4px 4px rgba(23, 43, 77, 0.15);
+  border-radius: 3px 3px 3px 3px;
+  transform-origin: top right;
+}
+
+.pagination {
+  display: flex;
+  justify-content: flex-start;
+  list-style: none;
+  cursor: pointer;
+  margin-top: 270px ;
+  margin-left: 7%;
+}
+
+.pagination a {
+  padding: 10px;
+  border: 1px solid #47a7de;
+  color: #47a7de;
+}
+
+.pagination__link {
+  font-weight: bold;
+}
+
+.pagination__link--active a {
+  color: #fff;
+  background: #47a7de;
+}
+
+.pagination__link--disabled a {
+  color: rgb(198,197, 202);
+  border: 1px solid rgb(198,197, 202);
+}
+
+.ModalSua {
+    position: absolute;
+    width: 700px;
+    top: -143px;
+    height: 180px;
+    left: 34%;
+  
+    background: #FFFFFF;
+    box-shadow: 1px 1px 4px 4px rgba(23, 43, 77, 0.15);
+    border-radius: 3px 3px 3px 3px;
+    transform-origin: top right;
+}
+
+.MidDangXuat {
+  position: absolute;
+  width: 100%;
+  top: 94%;
+}
+
+.MidDangXuatDM {
+
+    position: absolute;
+    width: 100%;
+    top: 94%;
+  }
+
+.w450 {
+  width:150%;
+
+}
+
+.big {
+  width: 155%;
+  left: 5%;
+  top: -200px;
+  margin-bottom: -420px;
+}
